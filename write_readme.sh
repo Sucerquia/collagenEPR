@@ -9,7 +9,7 @@ Briefly describe your system
 
 EOF
 
-candidates=( TrivalentCrosslink )
+candidates=( PYD )
 
 for cand in ${candidates[@]}
 do
